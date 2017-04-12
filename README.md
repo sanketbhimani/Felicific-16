@@ -1,1 +1,4 @@
-# Felicific-16
+# Felicific '16
+
+It's college techfest website
+
