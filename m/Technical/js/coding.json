@@ -1,0 +1,15 @@
+data={
+    "coding": {
+            "id": "",
+            "name": "Code Jam",
+            "tagline": "",
+            "description": "The College level contest will challenge students to improve their coding capability.<br>Rounds scheme <br>1.EliminationRound: 		Participants will be provided question paper with fundamental questions of different programming concepts and features.<br>Time given: 1 hour.<br>2.Final Round :  Participants will be given problem statement.<br> They shall be asked to implement optimize code for given problem.<br>Time given: 1.5 hours.<br>Registration: Registration will be closed on 21st Feb. 2015.<br>",
+            "rules": "•	Internet connection won’t be provided for any of the rounds.<br>•	Participants per team are two.<br>•	Top 25 teams from Elimination round will participate in final round.<br>•Tie breaker: Indentation, Code Reuse and Use of Language Specific Features shall be preferred.<br>",
+            "teamsize": "2",
+			"date" : "11th March 2015",
+            "time": "",
+            "venue": "",
+            "fees": "60/-per team",
+            "contact": "CE:Mr. Saunak Thaker<br>Mobile:8264229587<br>IT:Ajay Devjani<br>Email:ajayrdevjani@hotmail.com  Mobile:9428704664]",
+          }
+ }

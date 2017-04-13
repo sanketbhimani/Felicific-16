@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+	<link rel="icon" href="feliicon.ico">
+	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
+	<script src="js/modernizr.js"></script> <!-- Modernizr -->
+  	<link rel="stylesheet" type="text/css" href="css/default.css" />
+	<link rel="stylesheet" type="text/css" href="css/component.css" />
+	<script src="js/modernizr.custom.js"></script>	
+	<title>Cultural</title>
+	<style type="text/css">
+  
+  .svg_menu
+  {
+  height: 36px;
+width: 36px;
+margin-bottom: 12px;
+margin-top: -200px;
+  }
+</style>
+</head>
+<body>
+	<nav class="cd-side-navigation">
+		<ul>
+			<li>
+				<a href="#0" onclick="ref('index');" class="selected" data-menu="index">
+
+				<img src="images/mainmenu/home.png" class="nc-icon outline svg_menu"> </img><br>
+					Home
+				</a>
+			</li>
+
+			<li>
+				<a href="#0" data-menu="services">
+				<img src="images/mainmenu/tech.png" class="nc-icon outline svg_menu"> </img><br>
+					Technical
+				</a>
+			</li>
+			
+			
+			<li>
+				<a href="#0" data-menu="centeraltech">
+					<img src="images/mainmenu/techcult.png" class="nc-icon outline svg_menu"> </img><br>
+					Central Technical
+				</a>
+			</li>
+
+			<li>
+				<a href="#0" id="act" data-menu="projects">
+				
+				<img src="images/mainmenu/cultural.png" class="nc-icon outline svg_menu"> </img><br>
+					Cultural
+				</a>
+			</li>
+
+			<li>
+				<a href="#0" data-menu="conference">
+				<img src="images/mainmenu/conf.png" class="nc-icon outline svg_menu"> </img><br>	
+					Conference
+				</a>
+			</li>
+			<!--
+			<li>
+				<a href="#0" data-menu="contact">
+				<img src="images/mainmenu/contact.png" class="nc-icon outline svg_menu"> </img><br>	
+					Contact
+				</a>
+			</li>
+			-->
+			<li>
+				<a href="#0" data-menu="webteam">
+				
+				<img src="images/mainmenu/webteam.png" class="nc-icon outline svg_menu"> </img><br>		
+					Web Team
+				</a>
+			</li>
+		</ul>
+	</nav> <!-- .cd-side-navigation -->
+	
+	<main class="cd-main">
+		<section class="cd-section projects visible">
+			<header>
+				<div class="cd-title">
+					<h2>Cultural</h2>
+					<span>Culture is all the things and ideas ever devised by humans workiing and living together.</span>
+				</div>
+
+				<a href="#projects-content" class="cd-scroll">Scroll Down</a>
+			</header>
+
+			<div class="cd-content" id="projects-content">
+				<br><br>
+				<blockquote class="quote" >
+							<div style="font-size: 40px;">Comming Soon!!</div><br>
+				</blockquote>
+			</div> <!-- .cd-content -->
+		</section> <!-- .cd-section -->
+	</main> <!-- .cd-main -->
+
+	<div id="cd-loading-bar" data-scale="1" class="projects"></div> <!-- lateral loading bar -->
+<script src="js/jquery-2.1.4.js"></script>
+<script src="js/velocity.min.js"></script>
+<script src="js/main.js"></script> <!-- Resource jQuery -->
+<script src="js/toucheffects.js"></script>
+<script type="text/javascript">
+//highlight appropriate link
+	if (window.location.href.indexOf("project") > -1) {
+	  $( ".selected" ).removeClass( "selected" );
+	  $( "#act" ).addClass( "selected" );
+	}
+</script>
+</body>
+</html>

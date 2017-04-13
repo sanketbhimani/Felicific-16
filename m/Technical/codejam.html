@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Codejam</title>
+		<meta name="description" content="A responsive, magazine-like website layout with a grid item animation effect when opening the content" />
+		<meta name="keywords" content="grid, layout, effect, animated, responsive, magazine, template, web design" />
+		<meta name="author" content="Akshay Bosamiya" />
+		<link rel="icon" href="feliicon.ico">
+		<link rel="stylesheet" type="text/css" href="css/normalize.css" />
+		<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.3.0/css/font-awesome.min.css" />
+		<link rel="stylesheet" type="text/css" href="css/style1.css" />
+		<link rel="stylesheet" type="text/css" href="css/style3.css" />
+		<script src="js/modernizr.custom.js"></script>
+		<script src="js/jquery-2.1.4.js"></script>
+		<script>
+			function hideheader()
+			{
+				//alert("in");
+				 document.getElementById("item").style.display="none";
+				 //alert("out");
+			}
+			function showheader()
+			{
+				//alert("in");
+				if($(window).width()/$(window).height() < 1)
+				{
+				document.getElementById("item").style.display="block";	
+				}
+				 
+				 //alert("out");
+			}
+			
+			function show_rules()
+			{
+				document.getElementById("rules_round").style.display="block";
+				document.getElementById("brules").style="background-color: #F3655E;";
+				document.getElementById("brounds").style="background-color: #ffffff;";
+				document.getElementById("rules_round").innerHTML = document.getElementById("rl").innerHTML;
+			}
+			function show_rounds()
+			{
+				document.getElementById("rules_round").style.display="block";
+				document.getElementById("brounds").style="background-color: #F3655E;";
+				document.getElementById("brules").style="background-color: #ffffff;";
+				
+			    document.getElementById("rules_round").innerHTML = document.getElementById("rn").innerHTML;
+			}
+		</script>
+	</head>
+	<body>
+		<div class="container">
+		
+			<button id="menu-toggle" class="menu-toggle"><span>Menu</span></button>
+			<div id="theSidebar" class="sidebar">
+				<button class="close-button fa fa-fw fa-close"></button>
+				<ul class="sidebarul">
+					<li style="margin-left:20%">
+						<a style="color:#dddddd" >
+						MENU
+						</a>
+					</li>
+					<hr>
+					<li><img src="img/icons/codejam.png">
+						<a style="color:#83b0b9" href="codejam.html">
+						Code Jam
+						</a>
+					</li>
+					<li><img src="img/icons/haunt.png">
+						<a href="hauntronics.html">
+						Huntronics
+						</a>
+					</li>
+					<li><img src="img/icons/robo.png">
+						<a href="robotics.html">
+						Robotics
+						</a>
+					</li>
+					<li><img src="img/icons/gaming.png">
+						<a href="gaming.html">
+						Gaming
+						</a>
+					</li>
+					
+					<hr>
+					<li><img src="img/icons/home.png">
+						<a href="../index.html">
+						Home
+						</a>
+					</li>
+					<li><img src="img/icons/tech.png">
+						<a href="../services.html'">
+						Technical
+						</a>
+					</li>
+					<li><img src="img/icons/techcult.png">
+						<a href="../centeraltech.html">
+						Central Technical
+						</a>
+					</li>
+					<li><img src="img/icons/cultural.png">
+						<a href="../projects.html">
+						Cultural
+						</a>
+					</li>
+					<li><img src="img/icons/conf.png">
+						<a href="../conference.html">
+						Conference
+						</a>
+					</li>
+				</ul>
+				<!--<h1><span>Animated<span> Grid Layout</h1>-->
+				
+				
+			</div>
+			
+			<div id="item" class="hiddenheader">
+				<h2>Coding</h2>
+				<hr>
+			</div>
+			
+			<div id="theGrid" class="main">
+				<section class="grid">
+					<a class="grid__item" onclick=hideheader() href="#">
+						<h2 class="title title--preview">Code Jam</h2>
+						<div class="loader"></div>
+						<span class="category"></span>
+					</a>
+					<!--<a class="grid__item" onclick=hideheader() href="#">
+						<h2 class="title title--preview">Chem-Illusion</h2>
+						<div class="loader"></div>
+						<span class="category"></span>
+					</a>
+					<a class="grid__item" onclick=hideheader() href="#">
+						<h2 class="title title--preview">Chem-e-Kviz</h2>
+						<div class="loader"></div>
+						<span class="category"></span>
+					</a>
+					<a class="grid__item" onclick=hideheader() href="#">
+						<h2 class="title title--preview">Explorer</h2>
+						<div class="loader"></div>
+						<span class="category">Boost your brain with Web Design</span>
+					</a>	<a class="grid__item" onclick=hideheader() href="#">
+						<h2 class="title title--preview">Chem-Coupe</h2>
+						<div class="loader"></div>
+						<span class="category">Be ready. Be smart. Be noticed.</span>
+					</a>-->
+					
+					<!--
+					<footer class="page-meta">
+						<span>Load more...</span>
+					</footer>
+					-->
+				</section>
+				<section class="content">
+					<div class="scroll-wrap">
+						<article class="content__item">
+							<h2 class="title title--full">Code Jam</h2>
+							<span class="category category--full"></span>
+							<div class="line-con" ></div>
+							<blockquote class="quote" >
+							<div style="color: #4D4C4C;">The College level contest will challenge students to improve their coding capability.<br>Rounds scheme <br>1.EliminationRound: 		Participants will be provided question paper with fundamental questions of different programming concepts and features.<br>Time given: 1 hour.<br>2.Final Round :  Participants will be given problem statement.<br> They shall be asked to implement optimize code for given problem.<br>Time given: 1.5 hours.<br>Registration: Registration will be closed on 21st Feb. 2015.<br></div>
+							</blockquote>
+							<div class="line-con" ></div>
+							<center>
+								<a onclick="shsow_rules();" id="brules" class="ibutton">Rules</a>
+								<!--<a onclick="show_rounds();" id="brounds" class="ibutton">Rounds</a>-->
+							</center>
+							<br>
+							<div id="rules_round">•	Internet connection won’t be provided for any of the rounds.<br>•	Participants per team are two.<br>•	Top 25 teams from Elimination round will participate in final round.<br>•Tie breaker: Indentation, Code Reuse and Use of Language Specific Features shall be preferred.<br></div>
+								<div id="rl" style="display: none;">
+							
+								</div>
+								<div id="rn" style="display: none;">
+									
+							<div class="line-con" ></div>
+							<center>
+							<div>
+								<img src="img/team.png"></img>
+								<h4>TEAM<br><div>2 Person</div></h4>
+							</div>
+							<div class="line-con" ></div>
+							<div>
+								<img src="img/time.png"></img>
+								<h4>DATE & TIME<br><div>11th March 2016</div></h4>
+							</div>
+							<div class="line-con" ></div>
+							<div>
+								<img style="width:48px;height:48px" src="img/rupee.png"></img>
+								<h4>FEES<br><div>60 Rs</div></h4>
+							</div>
+							<div class="line-con" ></div>
+							<img src="img/phone.png"></img>
+							<h4>Event Co-Ordinator<br>
+							<div>
+							CE:Mr. Saunak Thaker<br>Mobile:8264229587<br>IT:Ajay Devjani<br>Email:ajayrdevjani@hotmail.com <br> Mobile:9428704664
+							</div>
+							<h4>
+							</center>
+							<br>
+							<p></p>
+						</article>
+						<!--<article class="content__item">
+							<h2 class="title title--full">CHEM-ILLUSION</h2>
+							<span class="category category--full">Imaginandi vis res vincit veras</span>
+							<div class="line-con" ></div>
+							<blockquote class="quote" >
+							<div style="color: #4D4C4C;">This event aims at applying the basic knowledge of chemistry (Chemical reactions).
+Participants have to perform magic using any chemical reaction. After performing their trick, participants need to explain the mechanism behind the trick. Participants can perform as many tricks as they want.</div>
+							</blockquote>
+							<div class="line-con" ></div>
+							<center>
+								<a onclick="shsow_rules();" id="brules" class="ibutton">Rules</a>
+								<!--<a onclick="show_rounds();" id="brounds" class="ibutton">Rounds</a>-->
+	<!--						</center>
+							<br>
+							<div id="rules_round"><br>
+							1.  Hazardous or concentrated chemicals are not allowed.<br>
+2. Chemicals will not be provided.
+							</div>
+								<div id="rl" style="display: none;">
+								</div>
+								<div id="rn" style="display: none;">
+								</div>
+							<div class="line-con" ></div>
+							<center>
+							<div>
+								<img src="img/team.png"></img>
+								<h4>TEAM<br><div>Maximum 3 members per team. </div></h4>
+							</div>
+							<div class="line-con" ></div>
+							<div>
+								<img src="img/time.png"></img>
+								<h4>DATE & TIME<br><div>9th March 2016<br>3:00 am</div></h4>
+							</div>
+							<div class="line-con" ></div>
+							<div>
+								<img style="width:48px;height:48px" src="img/rupee.png"></img>
+								<h4>FEES<br><div>50 Rs</div></h4>
+							</div>
+							<div class="line-con" ></div>
+							<img src="img/phone.png"></img>
+							<h4>Event Co-Ordinator<br>
+							<div>
+							Email Id: rathwa.swapnil21@gmail.com <br>M: 9033497258
+							</div>
+							<h4>
+							</center>
+							<br>
+							<p></p>
+						</article>
+						
+						<article class="content__item">
+							<h2 class="title title--full">CHEM-E-KVIZ</h2>
+							<span class="category category--full">Think Quick!</span>
+							<div class="line-con" ></div>
+							<blockquote class="quote" >
+							<div style="color: #4D4C4C;">This event aims at applying the general knowledge of Chemical engineering.</div>
+							</blockquote>
+							<div class="line-con" ></div>
+							<center>
+								<a onclick="shsow_rules();" id="brules" class="ibutton">Rules</a>
+								<!--<a onclick="show_rounds();" id="brounds" class="ibutton">Rounds</a>-->
+		<!--					</center>
+							<br>
+							<div id="rules_round"><br>
+							Round 1- Elimination Round<Br>
+The test consists of general chemical knowledge. 25 minutes will be given to complete the written test. Based on the score, participants will be selected for the next round.<br><Br>
+Round 2- Ultimate Round<Br>
+There will be maximum 5 teams. It consists of following segments:<br>
+1. Questions based on topics of choice<br>
+2. Visual Round<br>
+3. Logical questions(how, why)<br>
+4. Rapid fire round<br>
+5. Buzzer round<br><Br>
+General-Rules:<br>
+1. Participants will be provided rough paper.<br>
+2. No textbooks or references will be allowed.<br>
+3. Elimination criteria will be decided on the basis of the results.<br>
+							</div>
+								<div id="rl" style="display: none;">
+								</div>
+								<div id="rn" style="display: none;">
+								</div>
+							<div class="line-con" ></div>
+							<center>
+							<div>
+								<img src="img/team.png"></img>
+								<h4>TEAM<br><div>2 members per team. </div></h4>
+							</div>
+							<div class="line-con" ></div>
+							<div>
+								<img src="img/time.png"></img>
+								<h4>Date & TIME<br><div>9th March 2016<br>3:00 am</div></h4>
+							</div>
+							<div class="line-con" ></div>
+							<div>
+								<img style="width:48px;height:48px" src="img/rupee.png"></img>
+								<h4>FEES<br><div>50 Rs per team</div></h4>
+							</div>
+							<div class="line-con" ></div>
+							<img src="img/phone.png"></img>
+							<h4>Event Co-Ordinator<br>
+							<div>
+							Shrenik Jain<br>Email Id: shrenikjain94@gmail.com<br>M: 9033497258
+							</div>
+							<h4>
+							</center>
+							<br>
+							<p></p>
+						</article>
+						
+						<article class="content__item">
+							<h2 class="title title--full">EXPLOREREN</h2>
+							<span class="category category--full">Nothing weighs more than a secret</span>
+							<div class="line-con" ></div>
+							<blockquote class="quote" >
+							<div style="color: #4D4C4C;">This event aims at applying the knowledge of chemical technology and basic chemistry.</div>
+							</blockquote>
+							<div class="line-con" ></div>
+							<center>
+								<a onclick="shsow_rules();" id="brules" class="ibutton">Rules</a>
+								<!--<a onclick="show_rounds();" id="brounds" class="ibutton">Rounds</a>-->
+			<!--				</center>
+							<br>
+							<div id="rules_round"><br>
+							1. Maximum 2 participants can form a team.<br>
+2. Participants will be provided rough sheet if required.<br>
+3. Elimination criteria will be decided on the basis of the results.<br>
+							</div>
+								<div id="rl" style="display: none;">
+								</div>
+								<div id="rn" style="display: none;">
+								</div>
+							<div class="line-con" ></div>
+							<center>
+							<div>
+								<img src="img/team.png"></img>
+								<h4>TEAM<br><div>2 members per team. </div></h4>
+							</div>
+							<div class="line-con" ></div>
+							<div>
+								<img src="img/time.png"></img>
+								<h4>DATE & TIME<br><div>9th March 2016<br>3:00 am</div></h4>
+							</div>
+							<div class="line-con" ></div>
+							<div>
+								<img style="width:48px;height:48px" src="img/rupee.png"></img>
+								<h4>FEES<br><div>50 Rs</div></h4>
+							</div>
+							<div class="line-con" ></div>
+							<img src="img/phone.png"></img>
+							<h4>Event Co-Ordinator<br>
+							<div>
+							Email Id: rathwa.swapnil21@gmail.com <br>M: 9033497258
+							</div>
+							<h4>
+							</center>
+							<br>
+							<p></p>
+						</article>
+						
+						<article class="content__item">
+							<h2 class="title title--full">CHEM-COUPE</h2>
+							<span class="category category--full">Rule the Road!!!</span>
+							<div class="line-con" ></div>
+							<blockquote class="quote" >
+							<div style="color: #4D4C4C;">Participants will have to make their own model car as per their design. There will be 3 attempts in a round. Best of three will be considered. Teams will then be required to mix the reactants in such proportions as to cover the chosen length. The closest distance among the three will be considered.</div>
+							</blockquote>
+							<div class="line-con" ></div>
+							<center>
+								<a onclick="shsow_rules();" id="brules" class="ibutton">Rules</a>
+								<!--<a onclick="show_rounds();" id="brounds" class="ibutton">Rounds</a>-->
+				<!--			</center>
+							<br>
+							<div id="rules_round"><br>
+							1. No harmful chemicals and explosives are allowed.<br>
+2. Participants have to bring chemicals on their own.<br>
+3. The car must run with chemicals only. No other sources are allowed.<br>
+4.  Car should run on the provided track only.<br>
+5. The car will be disqualified in particular attempt if it overturns.<br>
+6.  No size or shape restriction in the design of the car.<br>
+							</div>
+								<div id="rl" style="display: none;">
+								</div>
+								<div id="rn" style="display: none;">
+								</div>
+							<div class="line-con" ></div>
+							<center>
+							<div>
+								<img src="img/team.png"></img>
+								<h4>TEAM<br><div>Maximum 3 members per team. </div></h4>
+							</div>
+							<div class="line-con" ></div>
+							<div>
+								<img src="img/time.png"></img>
+								<h4>DATE & TIME<br><div>9th March 2016<br>3:00 am</div></h4>
+							</div>
+							<div class="line-con" ></div>
+							<div>
+								<img style="width:48px;height:48px" src="img/rupee.png"></img>
+								<h4>FEES<br><div>60 Rs per team</div></h4>
+							</div>
+							<div class="line-con" ></div>
+							<img src="img/phone.png"></img>
+							<h4>Event Co-Ordinator<br>
+							<div>
+							  Chaudhary Deepak
+<br>Email Id: deepakrc2530@gmail.com     
+<br>M: 9725297384
+							</div>
+							<h4>
+							</center>
+							<br>
+							<p></p>
+						</article>
+-->
+					</div>
+					<button class="close-button" onclick="showheader()"><i class="fa fa-close"></i><span>Close</span></button>
+				</section>
+			</div>
+		</div><!-- /container -->
+		<script src="js/classie.js"></script>
+		<script src="js/main.js"></script>
+	</body>
+</html>

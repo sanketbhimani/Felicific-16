@@ -1,0 +1,730 @@
+data={
+	"technical": {	
+		"ce": {
+			"name": "Computer",
+			"tag": "Insilico",
+			"totalevent": "4",
+			"link1": "",
+			"link2": "",
+			"first": {
+				"id": "",
+				"name": "WebEdge",
+				"tagline": "",
+				"description": "Beyond the realms of academics this event provides the opportunity to dust the cob webs from the corners of brains of emerging young nurtured technicians. So stretch your wrists get that kink out of your neck and prepare your fingers to fly<br/>",
+				"rules": "<br/>1.Elimination Round: Both participants will be given a set of questions which will be based on web designing to check their knowledge of web designing.Qualification for the next round will be based on ranking. <br/>					Time Given: 1 Hour.<br/>Languages:HTML,CSS,JavaScript <br/>					2.	Final Round: Participants will be given certain list of tasks of web development. They shall be asked to implement those tasks and marks will be given according to how efficiently they have performed their task. Internet connection will be provided but only for limited amount of time.<br/> 					Time Given: 2 Hours. <br/>Languages allowed : HTML,CSS,JavaScript,JQuery, JSON, etc					Rules: <br/>			Internet connection will be provided for only the 2nd round.<br/>	Participants per team are two.<br/>Top 5 teams from Elimination round will participate in final round.<br/>Tie breaker: In case of tie the time taken to finish the task will be considered.<br/>",
+				"teamsize": "2",
+				"date":"10th March 2016",
+				"time": "",
+				"venue": "",
+				"fees": "60 Rs/- per Team",
+				"contact": " Khushboo Mehta<br/>  						M.: 8000037733<br/> 						Email id: khushboomehta1995@gmail.com<br/> "    
+			},
+
+			"second": {
+				"id": "",
+				"name": "Hardcore gaming",
+				"tagline": "",
+				"description": "Need For Speed : <br/>	-The tournament will be knock out. The player who wins their 1st stage match advances to the next stage.<br/>				-The knockout continues till we get final 4 top scoring players for the semi finals.<br/>				-There will not be any match played for the third spot.<br/>				-Sprint Races will be played by 4 players in the first round.<br/>				<br/>				Counter Strike : <br/>				The tournament will be knock out. <br/>				The team which wins its 1st stage match advances to the next stage.<br/>				The knock out continues till we get final 4 top scoring teams for the semi finals.<br/>				There will not be any match played for the third spot.<br/>",
+				"rules": "<br/>Need For Speed : <br/>-Players must be present in the tournament area at the notifications schedule. Players are advised to be present a few minutes before the schedule to avoid any unpredictable delay. If the player is not present at the notification schedule, he shall be disqualified. <br/>-Players will be given 5 minutes to choose their car and tune them before racing. <br/>-Any argument with the co-ordinators will lead to disqualification of the participant.<br/><br/>Counter Strike : <br/>Match Format:<br/><br/>-Every team should have atmost 5 players. <br/>-Every prelims and quarters match will be played on one map with a total of 7 rounds. <br/>-For pre-semifinals team counter terrorist/terrorist will be decided on the basis of a trial round and the winner of that round gets to decide team. <br/>-The start money for the match will be $16000. <br/>-The team first to win 4 matches consecutively will be the winner of the match. <br/>-For the Semi-Finals total number of rounds will be 14 (7 each as a Counter Terrorists and Terrorists).<br/>-Finals: For the final round, there would be 20 rounds (10 each as terrorist and counter-terrorist). <br/>-For each round win, team will be rewarded 1 point. Tie Breaker:<br/>-There will be extra 7 rounds played on the same map and the team will start as the same as it finished in the normal rounds. <br/>-The start money for the tie breaker rounds will be $10000. <br/>-The team to win first 4 rounds total will be the winner of the match. <br/>-If a tie breaker also leads to a draw then 1 extra round will be played and the winner will be the winner of the match.<br/> Game Settings:<br/>-Use of Tactical Shield is strictly forbidden.If a team uses it intentionally or unintentionally, the team loses the round immediately. Intentional or unintentional use of bugs and/or exploits is strictly forbidden. Any questions regarding bugs and/or exploits must be brought to the tournament official present there. If a team is found to use bugs and/or exploits, the opponent team shall be declared as the winner of the match and a warning will be given to the team that used bugs and/or exploits by the tournament official. <br/>The following settings will be set on servers:<br/>Roundtime: 1 min 45 sec<br/>Freezetime: 5 sec<br/>Buytime: 20 sec<br/>Friendly Fire: On<br/>Rules: <br/><br/>-Players must be present in the tournament area with the whole team at the notifications schedule. Players are advised to be present a few minutes before the schedule to avoid any unpredictable delay. If the team is not present at the notification schedule, they shall be disqualified. <br/>-Teams will be given 1 minutes to configure their settings and after that use of console or change in settings will be strictly prohibited. <br/>-The seating arrangement is to the discretion of the tournament officials. <br/>-Players are allowed to bring their own mouse and headphones.Headphones will not be provided by the committee. <br/>-If one of the players is disconnected or crashed, he must come back in to the game as soon as possible and the round will be restarted. The team should be of 5 members and no change of players in the team is allowed after they have played their first match. <br/>-player can use their own usb mouse",
+				"teamsize": "<br/>Need For Speed : <br/>1<br/>Counter Strike : <br/>5<br/>",
+				"date":"10th March 2016",
+				"time": "",
+				"venue": "",
+				"fees": "Need For Speed :  <br/>30/- <br/>Counter Strike :  <br/>150/- per team <br/>",
+				"contact": "Jay Tanna <br/>Mobile:9033637371  <br/>Email id : jaytanna61@gmail.com <br/>"
+			},
+   
+			"third": {
+				"id": "",
+				"name": "Hardware Rush",
+				"tagline": "",
+				"description": "Test your hardware knowledge!",
+				"rules": "Round Scheme :<br/>1.	Elimination Round: Participants will be give an online test, this test will judge their day to day hardware knowledge. <br/>Time given: 30 Minutes.<br/> 2.	Second Round :  Second Round will be next level of elimination.<br/>Time given: 1 hour. <br/>3.	Final Round :  Treasure Hunt.<br/>Time given: 1 hour. <br/>Rules:<br/>-	Internet connection won't be provided for any of the rounds.<br/>-	Participants per team are two.<br/>-	Top 10 teams from Elimination round will participate in final round.<br/>-	Tie breaker: Rapid fire of hardware related questions. ",
+				"teamsize": "2",
+				"date":"10th March 2016",
+				"time": "",
+				"venue": "",
+				"fees": "60/- per Team",
+				"contact": "Sagar Sheth<br/>Mobile: 9904375457"
+			},
+   
+			"forth": {
+				"id": "",
+				"name": "Quizine",
+				"tagline": "",
+				"description": "Technology lies at the ultimate core of development of human fraternity. Are you ready to brainstorm the technical genius within you? Here's probably the world's most intellectual hobby, joining millions of people with a common and acute thirst for trivia and knowledge. With technology as your genre, your knowledge will be your first and last line of defense.",
+				"rules": "1.	Elimination Round: - Online Round with technical questions. Top 5 teams will be selected for final round.Time given: 30  minutes.2.	Final Round: - I.	Rapid FireII.	Visual-Buzzer Round<br/>Rules:	Use of any type of electronics gadget is prohibited.",
+				"teamsize": "2",
+				"date":"10th March 2016",
+				"time": "",
+				"venue": "",
+				"fees": "	60 per team",
+				"contact": "Vidisha Shah <br/>M.: 9016694749 <br/>Email id: vidishashah26@gmail.com<br/>"
+			},
+   
+		},
+	
+		"it" : {
+	 
+			"name": "Information Technology",
+			"tag": "Tech-Crusade",
+			"totalevent": "3",
+			"link1": "",
+			"link2": "",
+			"link3": "",
+	 
+			"first": {
+				"id": "",
+				"name": "INotify(Linux Commands and Shell Script Programming)",
+				"tagline": "UNIX Commands and shells",
+				"description": "Do you remember the word which associates itself with linux? Get ready to get cocooned in the world of kernels and shells. Accomplish the allocated tasks, and win the quest.",
+				"rules": "Round-1: Elimination Round (Using Pen and Paper)</br>				Each participant has to solve a question paper having questions on Linux commands and Shell Scripting.</br> The qualifying teams will be selected based on ranking or cut-off marks. Maximum 15 Teams will enter into Round 2. </br>				Time Duration: 45 mins</br>				Round-2: Final Round (Using Computer)</br>				This round has a set of difficult problems that the participant is expected to solve with the use of Linux commands and Shell scripting.</br>				Time Duration: 60 Minutes	</br>				Rules</br>				1. Only 1 member per team.</br>				2. Round 1 will have many questions which need to be attempted in 60 minutes. Solve as many questions as you can. Maximum of 15 teams will enter into the next round.</br>				3. If in case of any tie, tie-breakers shall be used.</br>				4. The organizing committee reserves right for any change/addition in rules.</br>",
+				"teamsize": "1",
+				"date":"8th March 2016",
+				"time": "",
+				"venue": "",
+				"fees": "30/-",
+				"contact": "Anjali Thacker</br>				7600055199</br>				thackeranjali95@gmail.com</br>				Dhruv Patel</br>				7600216322	</br>				dhruvpatel0107@gmail.com</br>"
+			},
+
+			"second": {
+				"id": "",
+				"name": "Project Presentation ",
+				"tagline": "Blend your skills",
+				"description": "First comes abstract, then comes concrete. If you have the vision of something new or have already dissected a creation then present them before us and get rewarded. Be precise, and concise.",
+				"rules": "1.	Each participant/team will bring working project that is prepared by the participants/team members.</br>				2.	Participants are required to bring complete project (including system/machine/hardware, etc) for demonstration.</br>				3.	Participants must be able to demonstrate design and development of the project.</br>				4.	Projects having computer hardware (processing, control, sensors), computer software (application program, system program, mobile programs, etc), or combination of computer hardware and computer software are allowed for participation.</br>				5.	The organizing committee reserves right for any change/addition in rules.</br>",
+				"teamsize": "",
+				"date" : "8th March 2016",
+				"time": "",
+				"venue": "",
+				"fees": "50/-",
+				"contact": "	Parth Dani</br>					7622931795</br>					parth26dani@gmail.com</br>					Digant Patel</br>					9979725965</br>					digantrocks123@gmail.com</br>"
+			},
+   
+			"third": {
+				"id": "",
+				"name": "google-de-scrutiny (Google Search)",
+				"tagline": "Entangled in the web",
+				"description": "Have you ever gone beyond the first page of Google. If you have the tactics to deal with the world of google, take a deeper dive. Come forward to face the underlying enigma of Google. Scratch your brains to answer the already answered stuff.",
+				"rules": "Round 1: Elimination Round (Using Computer and Internet)</br>				Each participant has to solve a set of internet search tasks. The qualifying participants will be selected based on the number of correctly solved search tasks. Maximum 12 Teams will enter into Round 2.</br>				Time Duration: 45 Minutes</br>				Round 2: Expert Searching Skills (Using Computer and Internet)</br>				This round has a set of internet search tasks that will require expert search skill in order to retrieve asked information.</br> 				Time Duration: 60 Minutes</br>				 Rules:</br>				1. Only 1 member per team.</br>				2. If in case of any tie, Tie-breakers shall be used.</br>				3. Internet connection will be provided to the participants during both the rounds.</br>				4. The organizing committee reserves right for any change/addition in rules.</br>",
+				"teamsize": "1",
+				"date":"8 March 2016",
+				"time": "",
+				"venue": "",
+				"fees": "30/-",
+				"contact": " 	Supriya priyadarshani</br>					9537181953</br>					supriya.surat@gmail.com</br>					Aditya Upadhyay</br>				9904132216</br>					adityaupadhyay3004@gmail.com</br>"
+			},
+		},
+  
+		"ic": {
+   
+			"name": "Instrumentation & Control",
+			"tag": "Instronics",
+			"totalevent": "2",
+			"link1": "",
+			"link2": "",
+			"link3": "",
+   
+			"first": {
+				"id": "",
+				"name": "Projectmania",
+				"tagline": "",
+				"description": "The College level contest will challenge students to demonstrate innovative projects/simulation. Any project carried out at B.Tech or M.Tech level can be demonstrated.",
+				"rules": " First demonstration and second round will be power point presentation followed by question answer session.",
+				"teamsize": "max 4",
+				"date":"8th March 2016",
+				"time": "",
+				"venue": "IC lab & Computer Centre",
+				"fees": "70/-",
+				"contact": "	Viral Patel					Email Id : viralpatel.7846@gmail.com					M: 8469318654"
+			},
+
+		"second": {
+			"id": "",
+			"name": "Techno-Quizzeria",
+			"tagline": "Think Quick!",
+			"description": "This quiz include questions on the basis of general knowledge, fundamental physics Laws and general knowledge about engineering, ",
+			"rules": "Elimination Round</br>				1.	Each team would be given a set of question paper containing 25 multiple choice objective type questions</br>				2.	Time limit - 15 minutes				3.	Teams would be selected for QUIZ ROUNDS based on decided cut off and performance of the participants. </br>				4.	In case of tie between 2 or more teams, further 5 questions would be asked for final selection</br>				5.	The selected teams shall have to appear for the final quizround.</br>				Quiz Rounds</br>				 This is a final quiz round. This round contains questions based on audio-visual, rapid fire, MCQ questions, etc.</br>				GENERAL RULES</br>				1.	Only team entries are eligible.</br>				2.	A team shall consist of max two persons</br>				3.	The decision of the quiz-master will be final and will not be subjected to any change.</br>				4.	The participants shall not be allowed to use mobile or other electronic instruments.</br>				5.	The questions shall be in the form of multiple choice, True / False statement, Specific-answer question etc.</br>				6.	Audience shall not give any hints or clues to the competitors.</br>				7.	The judgment of organizers and judges are final and abiding to all</br>				8.	Depending on situation, coordinators has a right to modify rules with permission of judges</br>				9.	Team member should have ID cards of their college</br>				10.	In case of tie between 2 or more teams, surprise round will conduct</br>				11.	Replacement of any participant of a team is not allowed after registration</br>				12.	 Winning team will be awarded by certificate and prize</br>	",
+			"teamsize": "max 3",
+			"date":"8th March 2016",
+			"time": "1:30 pm to 3:30 pm",
+			"venue": "Classroom",
+			"fees": "70/-",
+			"contact": "	Smeet Sangani					Email : smeetsangani@gmail.com					M: 9409207800"
+		},
+	},
+    "mh": {
+		
+		"name": "Mechanical",
+		"tag": "Dimensions",
+		"totalevent": "4",
+		"link1": "",
+		"link2": "",
+		"link3": "",
+		
+        "first": {
+            "id": "",
+            "name": "Clash Of Clans",
+            "tagline": "Fight to finish with catapult",
+            "description": "Making mechanism to throw balls to required distance and to hit particular target.",
+            "rules": "Rounds scheme : </br> Round 1:Coverage of maximum distance</br>Participants will be given three chances to throw ball using mechanism. Best of three criteria will be used for elimination.</br>Round 2:Accuracy</br>The teams will be checked whether they can calibrate their machines as per the requirement. A circle will be made at certain distance. The ball should fall inside the circle drawn. Maximum five chances will be given. </br>Round 3:</br>a)	Presentation:</br>-	Participants have to represent their machine to the respective Faculties and some questions will be asked by the Faculties regarding mechanism used.</br>b)	Fight for Finish:</br>-	The CASTLE of thermocole sheet will be placed at certain distance. The teams have to hit the CASTLE. Three trials will be allowed to each team</br>1) Any trigger mechanism which involves electric or electronics component will not be considered.<br>						2) No direct contact of hand with ball during launching it.<br>						3) NOTCH MECHANISM is COMPULSORY.<br>						4) Explosive chemical cannot be used.<br>						5) Any type of misbehaviour leads your team to disqualification.<br>						6) Organisers have authority to change the rule at any time as per requirement.<br>						7) Decisions of judges will be final and binding to all.</br>Judging Criteria: </br>1)	In the First round, the result will be declared according to the maximum distance covered among all trials.</br>2)	In the Second round, the results will be given by relative measurement from the centre of the circle drawn on the ground.</br>3)	In the Third round, half score will be given by the Faculties on the basis of the design criteria and the remaining score will be earned by the Degree of closeness of the ball from the centre of the CASTLE.</br>Machine Space*:</br>-	Machine must be covered inside the circle of 2 m diameter.</br>-	Material allowed:</br>1.	Wooden pieces</br>2.	Stretchable strings</br>3.	Glue</br>4.	Spring</br>5.	Metal parts</br>6.	Rubber Bands</br>",
+            "teamsize": "Maximum 3 participants per team",
+			"date" : "8th March 2015",
+            "time": "",
+            "venue": "",
+            "fees": "150/- per team",
+            "contact": "Patel Chintan <br>						Email Id: cvpatel185806@gmail.com<br>						Desai Parth<br>						Email Id: parthdesai024.pd@gmail.com<br>						M:9409324470<br>"
+          },
+        "second": {
+            "id": "",
+            "name": "Hydro-E-Arm ",
+            "tagline": "BE GREEN LIKE PRO, BY CONSERVING H2O",
+            "description": "Participants have to pick and place object to the particular height with the help of HYDRAULIC ARM.",
+            "rules": "Rounds scheme</br>1)	PLACE AT HEIGHT:</br>In first round, elimination will be carried out on the basis of height at which an object is placed. There will be platforms at different heights. If you place an object on one platform then you cannot put another object on same platform in adjacent turn. Every platform will have some point. Elimination criteria are based on the number of participants.<br/>2)	GET THE PERFECT MATCH:</br>In this particular round, you have to pick an object and place it inside container of similar shape.</br>Rules :</br>1. In the first round, time of 5 minutes will be given to you to get maximum points.<br> 2. Top 5 participants who score maximum points will be eligible for next round.<br> The points will be given on basis of height.<br>3. In the second round, you have to place the block in the container of similar shape.<br> The points will be given on the accuracy and distance.<br>4. The result will be given on the basis of second round.<br>5. Max three participants will be allowed to operate mechanism at a time.<br>6. Organizers free to change the rules at any time of an event.<br>7. Any type of misbehavior leads to disqualification.<br>8. Decision of judges will be final and binding to all.<br>MACHIINE SPECIFICATION:<br>1. Base area of the machine should be fit into square of dimension 50 cm x 50 cm.<br> Base must be made up of PLYWOOD.<br> There is no restriction on expandable height or length of machine.<br>2. Machine arm should able to pick an object which is 50 to 70 cm far from your machine base.<br>3. Height of the base should be maximum 70 mm.<br>4.Machine can expand or contract during competition.<br>5. All locomotive motion provided to mechanism must be operated by hydraulic only.<br>6. You can use hand operated mechanism to swivel of base.<br>(e.g., Rack and pinion)7. Use of battery and energy storing equipment are strictly prohibited.<br>8. Arm should rotate up to 180°.<br>9. Any types of electrical equipments are not allowed.<br>10. Change in machine is not allowed during competition.<br>11. During competition, any of the links must not be get out separated from mechanism.<br>12. Only water is allowed as a working fluid.<br>CONTROLS:1. The mechanism should be operated with the help of syringes.<br> You can also use piston cylinder assembly.<br>2. Maximum 3 person will be allowed to operate the machine during round.<br>MATERIAL ALLOWED:1.<br> Syringes (or any other cylinder-piston arrangement).<br>2. Tubes3.<br> Wood4. Metallic frames5.<br> Rubber bands6.<br> PlasticARENA: 1. Platforms are provided at different level.<br> The point is totally based on the heights.<br> Points will be given in following manner.<br>HEIGHT (CM)		POINTS</br>				30				    10</br>				40				    15</br>				50				    20</br>2. All heights are measured from ground level.<br>3. Max.<br> Block dimensions and weight are 10 cm x 10 cm and 250 grams respectively.<br> ",
+            "teamsize": "Maximum 4 participants per team",
+	         "date" : "8th March 2015",
+            "time": "",
+            "venue": "",
+            "fees": "200/- per team",
+            "contact": "Patel Axay </br>						Email Id: akshaypatel111.ap@gmail.com</br>						M: 7778802143 </br>                       						Akbari Vishal</br>						Email Id: vishalakbari1996@gmail.com</br>						M: 9537173323</br>"
+          },
+      
+           "third": {
+            "id": "",
+            "name": "Mock Placement",
+            "tagline": " Experience The Placement Fever",
+            "description": "Mock placement for the benefit of students.",
+            "rules": "1. For a written test a cut off will be decided & on that basis, participants will be proceed further for round 2.<br>						2. In G.<br>D.<br> the judging will be based on the communication skill, initiation ability, content.<br>						3. For P.<br>I.<br> the judging will be done by the judges or the interviewer.<br>",
+            "teamsize": "Individual entry",
+			   "date" : "8th March 2015",
+            "time": "",
+            "venue": "",
+            "fees": " 70/-",
+            "contact": "Thakkar  Tapan </br>						Email Id: tapanthakkar2606@gmail.com</br>						M: 9104701579</br>						Thakwani Parag</br>						Email Id: thakwanip46@gmail.com</br>						M: 7383940539</br>"
+          },
+          
+          "forth": {
+            "id": "",
+            "name": "Ultimate Jugadu",
+            "tagline": "Think innovative to survive yourselfÃ¢ï¿½Â¦",
+            "description": "Unleash your wild creativity at FELICIFICÃ¢ï¿½ï¿½16 and join the fun in creating amazing stuff out of scrap.",
+            "rules": "Students from different institutes can form a team.<br>					Use of any parts or instruments other than the given materials is PROHIBITED.<br>					No extra time will be given to any team under any circumstances.<br>					If there is any damage to the tools provided or instruments, then the team to which the instrument was given would be liable to pay for the damage.<br>					Ultimate Jugadu organizing team is not responsible for any loss of property, injury and delays during the event.<br> The external conditions will be normalized to the maximum favourable limit.<br>					Workshop facilities will be provided to the participants.<br>					Participants need to have a basic idea about workshop safety and operational precautions.<br>					The safety of the participant solely depends on the participant himself.<br>					There will be no restriction on the type of mechanism used by the team to perform the task provided.<br> Only provision should be such that no other rule should be violated.<br>					The team violating the above rules will be disqualified.<br>					Judges decision shall be treated as final and binding to all.<br>					The Core committee members reserve the right to change any of the above mentioned rules.<br>					Any type of misbehaviour with judges or any organising committee student will lead disqualification of team at any moment of event.<br> 					Participants are required to stay up to date with the website.<br>",
+            "teamsize": "Maximum 3 participants per team",
+	         "date" : "8th March 2015",
+            "time": "",
+            "venue": "",
+            "fees": "150/- per team",
+            "contact": "Dama Anish  </br>				Email Id: anishdama@gmail.com</br>					M:9409177595 </br>					Ghelani Hardik    </br>                  					Email Id: ghelanihardik7@gmail.com</br>					M: 8530285102</br>"
+         }
+		},
+		
+		 "ch": {
+      
+	 "name": "Chemical",
+      "tag": "Collision",
+      "totalevent": "5",
+      "link1": "",
+      "link2": "",
+      "link3": "",
+	  
+        "first": {
+          
+            "id": "",
+            "name": "CHEMCONOMICS",
+            "tagline": "Be the Entrepreneur!!",
+			"description":"This event aims at applying the knowledge of chemical technology (unit operations and unit processes) to design the flow path for the conversion of raw materials to products",
+            "rules": "There will be 2 rounds in this event. </br>							In the first round, reactions employed for formation of products and its required conditions will be given. A process is to be designed by flow diagram using suitable unit operations and processes. </br>							In the second round, certain budget will be given and from that economics of the plant is to be managed. The model should be such that the cost should be optimum to given conditions. The most energy efficient and environmental friendly flow sheet will be awarded winner.</br>							1. Flow diagrams should be drawn with appropriate symbols.</br>							2. Maximum two participants can form a team.</br>							3. Maximum 1 hour time period will be there.</br>							4. Text books and references are not allowed. </br>							5. Participants should be aware of costs of different equipments.</br>",
+             "teamsize": "2 participants per team",
+            "date": "9th March 2016",
+            "time": "",
+            "venue": "",
+            "fees": "50/-",
+            "contact": "Goti Yogesh</br>						Email Id: yogeshgotichem@gmail.com </br>						M: 7778032904</br>"
+          
+        },
+        
+        "second": {
+          
+            "id": "",
+            "name": "CHEM-ILLUSION",
+            "tagline": "Imaginandi vis res vincit veras",
+            "description": "This event aims at applying the basic knowledge of chemistry (Chemical reactions).</br>							Participants have to perform magic using any chemical reaction. After performing their trick, participants need to explain the mechanism behind the trick. Participants can perform as many tricks as they want. ",
+            "rules": "	1.  Hazardous or concentrated chemicals are not allowed.</br>						2. Chemicals will not be provided",
+            "teamsize": " Maximum 3 participants per team",
+            "date": "9th March 2016",
+            "time": "",
+            "venue": "Sports ground",
+            "fees": "30/- per team",
+            "contact": "Rathwa Swapnil</br>							Email Id: rathwa.swapnil21@gmail.com</br>     						M: 9033497258 </br>"
+          
+        },
+        
+        "third": {
+          
+            "id": "",
+            "name": "CHEM-E-KVIZ",
+            "tagline": "Think Quick!",
+            "description": "This event aims at applying the general knowledge of Chemical engineering.",
+            "rules": "Round 1- Elimination Round</br>						The test consists of general chemical knowledge. 25 minutes will be given to complete the written test. Based on the score, participants will be selected for the next round.</br>						Round 2- Ultimate Round</br>						There will be maximum 5 teams. It consists of following segments:</br>						1. Questions based on topics of choice</br>						2. Visual Round</br>						3. Logical questions(how, why)</br>						4. Rapid fire round</br>						5. Buzzer round</br>						General-Rules:</br>						1. Participants will be provided rough paper.</br>						2. No textbooks or references will be allowed.</br>						3. Elimination criteria will be decided on the basis of the results.</br>",
+            "teamsize": "2 participants per team",
+            "date": "09th March 16",
+            "time": "",
+            "venue": "",
+            "fees": "50/-per team",
+            "contact": "Shrenik Jain</br>						Email Id: shrenikjain94@gmail.com</br>						M: 9033497258</br>"
+          
+        },
+        
+        "forth": {
+          
+            "id": "ch4",
+            "name": "EXPLOREREN",
+            "tagline": "Nothing weighs more than a secret",
+            "description": "This event aims at applying the knowledge of chemical technology and basic chemistry.",
+            "rules": "	The event consists of two rounds:</br>						Ã¢ï¿½Â¢	First round is Treasure Hunt.</br>						Ã¢ï¿½Â¢	Second round has two parts:</br>						a.	To solve a crossword puzzle.</br>						b.	From the answer of the crossword puzzle, detection of compound from the clues by smell.</br>						The winner will be decided based on time and points.</br></br>						Rules:</br>						1.	Maximum 2 participants can form a team.</br>						2.	Participants will be provided rough sheet if required.</br>						3.	Elimination criteria will be decided on the basis of the results.</br>",
+            "teamsize": "2 participants per team",
+            "date" : "9th MarchÃ¢ï¿½ï¿½16",
+            "time": "",
+            "venue": "Classroom",
+            "fees": "50/- per team",
+            "contact": "Patel Harsh</br>					Email Id: harsh8337@gmail.com</br>					M: 9173267083</br>"
+          
+        },
+        
+        "fifth": {
+          
+            "id": "",
+            "name": "CHEM-COUPE",
+            "tagline": "Rule the Road!!!",
+            "description": "Participants will have to make their own model car as per their design. There will be 3 attempts in a round. Best of three will be considered. Teams will then be required to mix the reactants in such proportions as to cover the chosen length. The closest distance among the three will be considered.",
+            "rules": "	1. No harmful chemicals and explosives are allowed.</br>						2. Participants have to bring chemicals on their own.</br>						3. The car must run with chemicals only. No other sources are allowed.</br>						4.  Car should run on the provided track only.</br>						5. The car will be disqualified in particular attempt if it overturns.</br>						6.  No size or shape restriction in the design of the car.</br>", 
+            "teamsize": "Maximum 3 participants per team",
+            "date" : "9th MarchÃ¢ï¿½ï¿½16",
+            "time": "",
+            "venue": "",
+            "fees": "60/- per team",
+            "contact": "Chaudhary Deepak</br>						Email Id: deepakrc2530@gmail.com </br>    						M: 9725297384</br>"
+       }
+  },
+  
+      "ec": {
+	  "name": "Electronics",
+      "tag": "Resonance",
+      "totalevent": "11",
+      "link1": "",
+      "link2": "",
+      "link3": "",
+	  
+        "first": {
+            "id": "",
+            "name": "TECHNICAL QUIZ (Quizo-Quizzare)  (NA/DE/CS/DS)",
+            "tagline": "",
+            "description": "",
+            "rules": "Rules: <br>					1. First round is an elimination round, remaining   teams will get into round 2.",
+                        "teamsize": " Max 2",
+			"date" : "10 March 2016",
+            "time": "",
+            "venue": "",
+            "fees": "30 per participant ",
+            "contact": ""
+          },
+        
+        "second": {
+            "id": "",
+            "name": "TECHNICAL QUIZ (Quizo-Quizzare) (CS/DSP/MC/AMP)",
+            "tagline": "",
+            "description": "Event is based on the basic technical knowledge of Communication System, Digital Signal Processing, Microcontroller, Advanced Microprocessor.",
+            "rules": "1. First round is an elimination round, remaining   teams will get into round 2.",
+            "teamsize": "Max 2",
+			"date" : "10 March 2016",
+            "time": "",
+            "venue": "",
+            "fees": "30 per participant ",
+            "contact": ""
+          },
+          
+          "third": {
+            "id": "",
+            "name": "DIGI-ANATRONICS(vaio-tron)",
+            "tagline": "",
+            "description": "Participants will be tested for their knowledge of Analog and Digital Electronic devices like <br> Diodes, BJTs, MOSFETs, Op-Amps, Flip-FlopÃ¢ï¿½ï¿½s, basic gates, etc.",
+            "rules": "1. Time limit for first round is 30 minutes. It is Elimination round. Top 20 teams would get into next round.<br>						2. Time limit for second round is 1 hour. It is Elimination round. Top 10 teams will be selected for final round.<br>						3. Time limit for third round is 2 hours. Only first 6 teams which will design<br> the circuit correctly on paper will be allowed to implement it on bread board.<br> Maximum 1 hour will be given for designing and 1 hour for implementing.<br> Top Two Team which designs and implements the circuit correctly<br> and in least time will be declared as winner.<br>",
+									"teamsize": "Max 2 members per team.",
+	    "date" : "10 March 2016",
+            "time": "",
+            "venue": "",
+            "fees": "50 per team",
+            "contact": ""
+          },
+          
+          "forth": {
+            "id": "",
+            "name": "ELECTRONIC JUNKYARD (Pin-in the bin)",
+            "tagline": "",
+            "description": "Time to show how good you can design a best electronics circuit from given junk of electronics components.",
+            "rules": "1. Time to think about/over it:  Round 1 and Round 2 (maximum timing 2 hours).<br>2. First round is an elimination round, remaining teams will get into round 2. ",
+            "teamsize": "Max 3",
+	    "date" : "10 March 2016",
+            "time": "",
+            "venue": "",
+            "fees": "50 per team ",
+            "contact": ""
+          },
+          
+          "fifth": {
+            "id": "",
+            "name": "MULTISIM BASED CONTEST",
+            "tagline": "",
+            "description": "If you think you are faster and accurate in designing the circuits then here is your chance.<Br> Design and simulate the circuits using  Multisim software.",
+            "rules": "1. Time to crack the 1st round is 10 minutes.<br>2. 1st round is elimination round, remaining participants will get into the round 2.<br>3. Time to design and simulate the circuit in 2nd round is 30 minutes.<br>",
+            "teamsize": "Max 2",
+	    "date" : "10 March 2016",
+            "time": "",
+            "venue": "",
+            "fees": "30 per participant",
+            "contact": ""
+          },
+          
+          "sixth": {
+            "id": "",
+            "name": "RESISTANCE RAPTURE (Ohmic-Ecstasy)",
+            "tagline": "",
+            "description": "Event based on Basic Electrical & Electronics Engg.  and Electronics Principles",
+            "rules": "Round 1: {Elimination round}<br>1. Time limit: 5 Seconds for each slide.<br><br>Round 2: <br>1. Time limit: 1:30 Hrs.<br>2. Carefully use the components provided to the participants.<Br>3. In case of damage of the components, marks will be deducted from the final evolution.<br>", 
+            "teamsize": "Exactly 2 members",
+	    "date" : "11 March 2016",
+            "time": "",
+            "venue": "",
+            "fees": "30 per team ",
+            "contact": ""
+          },
+          
+          "seventh": {
+            "id": "",
+            "name": "SIMULATION CONTEST (Mat Maestros)",
+            "tagline": "",
+            "description": "Matlab based simulation related to subjects like Digital Signal Processing, Antenna & Microwave.",
+            "rules": "1. Time limit is 1 and Ã�Â½ hour. ",
+            "teamsize": "",
+	    "date" : "11 March 2016",
+            "time": "",
+            "venue": "",
+            "fees": "30 per participant",
+            "contact": ""
+          },
+          
+          "eighth": {
+            "id": "",
+            "name": "INSTANT ELOQUET (Elite Talks)",
+            "tagline": "",
+            "description": "Time to show how good you can explain any technical concept in tech. as well as in non-tech. language!!",
+            "rules": "1. Time to think about/over it: 10 minutes.<br>2. Max. Time for talk:  3minutes.<br>3. First round is an elimination round, remaining participants will get into round 2.",
+            "teamsize": "Max 1",
+	    "date" : "11 March 2016",
+            "time": "",
+            "venue": "",
+            "fees": "30 per team ",
+            "contact": ""
+          },
+          
+          "ninth": {
+            "id": "",
+            "name": "PROG. IN MICROCONTROLLER",
+            "tagline": "",
+            "description": "Time to show how good you in Microcontroller programming.",
+            "rules": "1. Time: 30 minutes for each round.<br>2. Whole event based on paper work. Not based on simulator.<br>3. First and second rounds are an elimination round, remaining participants will get into Final round.<br>4. Event based on only intel 8051 microcontroller.<br>",
+            "teamsize": "Max 2",
+	    "date" : "11 March 2016",
+            "time": "",
+            "venue": "",
+            "fees": "40 per team ",
+            "contact": ""
+          },
+          
+          "tenth": {
+            "id": "",
+            "name": "Codeathon (Codemaster)",
+            "tagline": "",
+            "description": "Come and check your programming skills in C/C++ and be the Code Master.",
+            "rules": "1. First Round will be of 30 minutes.<br>2. Second Round will be of 1 hour. ",
+            "teamsize": "A team of 2 members",
+	    "date" : "11 March 2016",
+            "time": "",
+            "venue": "",
+            "fees": "30 per team",
+            "contact": ""
+          },
+          
+          "eleventh": {
+            "id": "",
+            "name": "TECH GENESIS (Electropreneurship)",
+            "tagline": "",
+            "description": "Tech genesis offers the technological ladder which will expose you to the competitive corporate world.<br> First round comprise of aptitude question, second round comprise of some <br>technical and comprehensive type question and the final will be an Auction and Marketing round.<br>",
+            "rules": "Round 1: {Elimination round if number of team exceeds 10}<br>1. Time limit: 30 mins.<br>2. Use of any electronic devices (calculator, etc.) is not allowed.<br>Round 2: {Elimination round so that only 5 team go through final round}<br>4. Time limit: 1 Hrs.<br>5. Use of any electronic devices(calculator, etc.) is not allowed.<br><Br>Round 3: Final Round<br>1. Bidding of Electronic Components:20mins.<br>2. Maximum time for answering questions and preparing Presentation: 45 mins.<br>3. Max time for delivering presentation: 4 mins.<br>4. Max time for representing advertisement:1 min<br>5. Questionnaire with the judges: max 5 mins.<br>",
+            "teamsize": " Exactly 4 members",
+	    "date" : "11 March 2016",
+            "time": "",
+            "venue": "",
+            "fees": "50 per team",
+            "contact": ""
+          },
+      },
+  
+		 "cl": {
+		 
+	 "name": "Civil",
+      "tag": "Creato",
+      "totalevent": "4",
+      "link1": "",
+      "link2": "",
+      "link3": "",
+		 
+        "first": {
+            "id": "",
+            "name": "Cupola",
+            "tagline": "",
+            "description": "Member should have to make a geodesic dome with the use of tube which are made from newspapers and as binding material they will have a sellotape. They have to follow some rules to make it. 							Material will be provided by us.<br/>							Cash price or Trophy will be given to the winners.<br/>",
+            "rules": "Since it is on the Spot Event, Further rules will be declared on the event day",
+            "teamsize": "max 3",
+            "date": "08th March 2016",
+            "time": "10:30 am",
+            "venue": "",
+            "fees": "90/-",
+            "contact": "					Isha Pancholi (For Registration)<br/>					07405405947<br/>	Sweety Agrawal</br>07284087295<br/> "
+          },
+          
+          "second": {
+            "id": "",
+            "name": "STRAW BUILDING",
+            "tagline": "",
+            "description": "Three Players Are There In Each Team. The Straws & Pins Will Be Provided To the Team. They Have To Make Structure Of T-Shape With Good Strength With The Help Of Straws & Pins In 45min. Flange & Web Range Will Be Given To The Participants. Strength Will Be Measure at the End by Applying Uniform Load on Both side end. The Structure Which Fail First Among Both Team That Team Will be loose & Who’s Structure Successfully & Safe Withstand By Load At The Last That Team Will Be Winner.<br/><br/>Material will be provided by us.</br>Cash price or Trophy will be given to the winners.</br>", 
+            "rules": "Rules:<br/>1)	Maximum participants per team: 3.<br/>2)	Since it is on the Spot Event, Further rules will be declared on the event day.",
+            "teamsize": "max 3",
+            "date": "09th March 2016",
+            "time": "1:30 pm",
+            "venue": "",
+            "fees": "90/- per team",
+            "contact": "Smit Gandhi (For Registration)<br/>7405678904<br/>						Chhatrola Milan<br/>9712448313<br/>"
+          },
+          
+          "third": {
+            "id": "",
+            "name": "Design your Town",
+            "tagline": "",
+            "description": "The groups have to make an ideal town by using material given. They have to use standard principles of town planning. 		Material will be provided by us.							Cash price or Trophy will be given to the winners.", 
+            "rules": "Since it is on the Spot Event, Further rules will be declared on the event day.",
+            "teamsize": "max 3",
+			"date": "09th March 2016s",
+            "time": "",
+            "venue": "",
+            "fees": "100/-",
+            "contact": "Bhargaviba Gohil (For Registration)<br/>7777998443<br/>Hitesh Mackwana<br/>8733016500"
+          },
+          
+          "forth": {
+            "id": "",
+            "name": "Quizeria",
+            "tagline": "",
+            "description": "It will be quize competition. Quize will be related to civil Engg.",
+            "rules": "1)	Maximum participants per team: 2.<br/>2)	Participants are not allowed to use any study material.<br/>1st Round – Pen & Paper round<br/>•	MCQ Type Questions based on Basic Civil Engineering concepts.<br/>2nd Round – Buzzer round<br/>3rd Round – Final Showdown<br/>•	This will be Treasure Hunt round. Clues at each location based on Civil Engineering Knowledge.<br/>",
+            "teamsize": "2",
+			"date": "08th March 2016",
+            "time": "",
+            "venue": "",
+            "fees": "30/- per person",
+            "contact": "Saumil Shah <br/>						-9601983933<br/>		Hardik M Dhorajiya <br/>-9723125473"
+          },
+
+            "fifth": {
+            "id": "",
+            "name": "BridgeIT",
+            "tagline": "",
+            "description": "Member should have to create a bridge on software.<br/>Cash price or Trophy will be given to the winners.",
+            "rules": "<br/>	Individual participation.<br/>	Since it is on the Spot Event, Further rules will be declared on the event day.<br/>",
+            "teamsize": "1",
+			"date": "09th March 2016",
+            "time": "",
+            "venue": "",
+            "fees": "30/- per person",
+            "contact": "Paras Chachadiya (For Registration)<br/>09898155483<br/>Sagar Dhandhukiya<br/>07359235692<br/>"
+          },
+          
+      },
+	  
+	  
+	    "mba": {
+		
+	 "name": "MBA",
+      "tag": "Bizz Brainz",
+      "totalevent": "7",
+      "link1": "",
+      "link2": "",
+      "link3": "http://felicific.org/asset/anything-else.pdf",
+	  
+    "first": {
+      "id": "",
+      "name": "KAUN BANEGA MANAGER",
+      "tagline": "",
+	 "description": "The Best Manager will be carried in different rounds and will be conducted throughout the day at regular intervals",
+		  "rules": "	The proposed rounds for the KAUN BANEGA MANAGER will be as follows:</br>						a) Presentation on the given case study, which will be common for all. Presentation time 5-6 mins.</br>						b) Numerical aptitude test.</br>						c) Interpretation of the financial statements of different companies.</br>						d) Panel interview. e) stress interview</br>					Ã¢ï¿½Â¢	Grand total will be calculated of the finalist and one who prevail the top of the list will be the Best Manager.</br>",
+        "teamsize": "1",
+	  "date":"11th March 2015",
+      "time": "",
+      "venue": "",
+      "fees": "100/-",
+      "contact": "	Prof. Hardik Shah</br>                					(Faculty Coordinator)</br>					Email Id: shah.hardik0701@gmail.com</br>     					 M: 9427854036</br>"
+    },
+
+    "second": {
+      "id": "",
+      "name": " BUSINESS MODEL",
+      "tagline": "",
+      "description": "",
+		"rules": "	Ã¢ï¿½Â¢	Business plans may be submitted by individuals or by teams. </br>					Ã¢ï¿½Â¢	There must not be more than 4 participants in a team. </br>					Ã¢ï¿½Â¢	Executive summary, containing the expansion of concepts outlined must be sent through-mail on shah.hardik0701@gmail.com on or before March 5, 2016 and the selected plans will be intimated through e-mail.</br>					Ã¢ï¿½Â¢	The subject of the e-mail should be BPLAN</br>					Ã¢ï¿½Â¢	Teams should bring soft copy in CD and Hard copy while attending competition.</br>					Ã¢ï¿½Â¢	Teams must come with their proposed model while attending competition for the judgment and explanation purpose.</br>					Ã¢ï¿½Â¢	Final-round submission will be judged according to the following criteria: </br>							o	Is the business financially feasible?</br>							o	Quality of products, services and/or solutions</br>							o	Market opportunities and competition</br>							o	Team qualifications</br>							o	Overall attractiveness of the venture</br>",
+      "teamsize": "max 4",
+	  "date":"11th March 2015",
+      "time": "",
+      "venue": "",
+      "fees": "50/-",
+      "contact": "	Prof. Hardik Shah</br>                					(Faculty Coordinator)</br>					Email Id: shah.hardik0701@gmail.com</br>     					 M: 9427854036</br>"
+   },
+   
+   "third": {
+      "id": "",
+      "name": "MANAGEMENT QUIZ",
+      "tagline": "",
+      "description": "",
+      "rules": "Ã¢ï¿½Â¢	Two participants per team</br>				Ã¢ï¿½Â¢	Teams should get registered before OR on the spot on the day of the event</br>				Ã¢ï¿½Â¢	Judges decisions are ultimate.</br>				Ã¢ï¿½Â¢	Teams should maintain dignity with in the event hall.</br>				Ã¢ï¿½Â¢	The participants shall not be allowed to use mobile or other electronic instruments.</br>				Ã¢ï¿½Â¢	The questions shall be in the form of multiple choice, True/False statement, Specific-answer question etc.</br>				Ã¢ï¿½Â¢	Audience shall not give any hints or clues to the competitors.</br>				Ã¢ï¿½Â¢	The whole event will be dividing in the three rounds.</br>",
+      "teamsize": "2",
+	  "date":"11th March 2015",
+      "time": "",
+      "venue": "Seminar Hall/Multimedia Hall",
+      "fees": "100/-",
+      "contact": "	Prof. Hardik Shah</br>                					(Faculty Coordinator)</br>					Email Id: shah.hardik0701@gmail.com</br>     					 M: 9427854036</br>"
+   },
+   
+   "forth": {
+      "id": "",
+      "name": "MOVIE MAKING",
+      "tagline": "",
+      "description": "	Ã¢ï¿½Â¢	The themes for the competition are (I) Social Issue (II) Go Green (III) Lesson from Management</br>						Ã¢ï¿½Â¢	Teams should get registered before March 5, 2016.</br>",
+      "rules": "Ã¢ï¿½Â¢	Jury decisions are  ultimate</br>				Ã¢ï¿½Â¢	Teams should maintain dignity with in the event hall.</br>				Ã¢ï¿½Â¢	Each participant will be allotted 10 minutes to display their movie.</br>				Ã¢ï¿½Â¢	Any part of the movie should not breach the decorum of the institute.</br>",
+      "teamsize": "2 or more",
+	  "date":"11th March 2015",
+      "time": "",
+      "venue": "",
+      "fees": "50/-",
+      "contact": "	Prof. Hardik Shah</br>                					(Faculty Coordinator)</br>					Email Id: shah.hardik0701@gmail.com</br>     					 M: 9427854036</br>"
+   },
+   
+   "fifth": {
+      "id": "",
+      "name": "PRODUCT LAUNCH",
+      "tagline": "",
+      "description": "asasd",
+      "rules": "Ã¢ï¿½Â¢	The first round will be elimination round wherein a panel of judges will evaluate all the submitted entries. The team needs to have minimum 2 and maximum 4 participants.</br>				Ã¢ï¿½Â¢	For preliminary round, participants need to select a product or services which are innovative and cater to a new market need which is not met as of now.</br>				Ã¢ï¿½Â¢	For the selected product or services, team needs to submit PPT with maximum 20 slides.</br>				Ã¢ï¿½Â¢	The PPTs are required to mail by March 5, 2016 on shah.hardik0701@gmail.com .</br>				Ã¢ï¿½Â¢	For the elimination round, 5 minutes will be given to each team for presentation and five best teams will be selected by panel of judges for final round.</br>				Ã¢ï¿½Â¢	The 3 selected teams will give the final presentation and that would be of 15 minutes followed by Questions-Answer of 5 minutes.</br>				Ã¢ï¿½Â¢	Team can include all the creative aspects required for a new product launch like tagline, slogan, ad copy, poster etc... for the final presentation.</br>",
+      "teamsize": "2-4",
+	  "date":"11th March 2015",
+      "time": "",
+      "venue": "Seminar Hall/Multimedia Hall",
+      "fees": "50/-",
+      "contact": "	Prof. Hardik Shah</br>                					(Faculty Coordinator)</br>					Email Id: shah.hardik0701@gmail.com</br>     					 M: 9427854036</br>"
+   },
+   
+      "sixth": {
+      "id": "",
+      "name": "FILMOTSAV",
+      "tagline": "",
+      "description": "There will be a general discussion on the film between the participants.",
+      "rules": "Each participant is required to carry a pen and note pad with them.",
+      "teamsize": "",
+	  "date":"",
+      "time": "",
+      "venue": "",
+      "fees": "50/-",
+      "contact": "	Prof. Hardik Shah</br>                					(Faculty Coordinator)</br>					Email Id: shah.hardik0701@gmail.com</br>     					 M: 9427854036</br>"
+   },
+   
+      "seventh": {
+      "id": "",
+      "name": "Business Battle",
+      "tagline": "",
+      "description": "",
+      "rules": "",
+      "teamsize": "",
+	  "date":"",
+      "time": "",
+      "venue": "",
+      "fees": "",
+      "contact": ""
+   }
+  },
+  
+      "bca": {
+	  
+	  "name": "BCA MCA",
+      "tag": "Techno-Kshetra",
+      "totalevent": "4",
+      "link1": "",
+      "link2": "",
+      "link3": "",
+	  
+        "first": {
+            "id": "",
+            "name": "Ima-jigsaw",
+            "tagline": "Power of imagination",
+            "description": "Showing image parts in progressive manner and participants have to identify as fast as possible. (Strictly not images of words)",
+            "rules": "The participants need to raise their hand on identifying the image. First to raise the hand would be given the chance and if fails next to raise the hand should answer.",
+            "teamsize": "1",
+            "date": "9th March 2016",
+            "time": "9 to 11 a.m.",
+            "venue": "Seminar Hall ",
+            "fees": "50/-",
+            "contact": " MCA : Kalpesh Hadiyal</br>						email : kvhadiyal@gmail.com </br>						Mobile : 9601283538</br>                        BCA : Teena pamecha </br>						email : teenapamecha913@gmail.com</br>						Mobile : 7048631088</br>"
+          },
+          
+          "second": {
+            "id": "",
+            "name": "Judgement",
+            "tagline": "Power to you.",
+            "description": "Identify the logo and tag line of famous computer organization. Identify the well known personality. ",
+            "rules": "Participant will have to identify following thing. </br>						Identify person, cost, Tag line, Company Logo, Device Identification (Network/mobile/PC,I-Pad,Tablet) by looking at displayed image.",
+            "teamsize": "1",
+            "date": "9th March 2016",
+            "time": "",
+            "venue": "Classroom",
+            "fees": "50/-",
+            "contact": "MCA : 	Dutt Patel </br>								email : duttupatel@hotmail.com </br>                                Mobile : 7878717171 </br>                                BCA :  Pankti Sharma </br>								Email : panktisharmasp400@gmail.com</br>                                Mobile : 8153898400</br>"
+         },
+          
+          "third": {
+            "id": "",
+            "name": "Tech  Charades",
+            "tagline": "Silence will be heard.",
+            "description": "One member is given one technical word. He tries to convey this word to his team members by enacting.",
+            "rules": "The team should constitute of 3 members.</br>						Terms/words will be related to computer science. </br>						Lip movement is not allowed-only hand movement should be there.</br>						No lettering, no prompting, no props allowed.</br>						Each participant acts any word and remaining participant identifies that word within one minute. </br>						Total time required is 3 minutes. Each team has 3 chances</br>	",
+            "teamsize": "3",
+            "date": "9th March 2016",
+            "time": "",
+            "venue": "Classroom",
+            "fees": "50/-",
+            "contact": "MCA :  	Aftab Alam </br>								email : aftab.a0292@gmail.com  </br>                                                                                                   Mobile : 8980170389</br>                        BCA :   Pulkit Gupta </br>								email : pucool60@gmail.com</br>                                Mobile : 9574003602</br> "
+          },
+          
+          "forth": {
+            "id": "",
+            "name": "Tech hunt",
+            "tagline": "Better sound through research.",
+            "description": "Teams are required to move from place to place in order to get successive clues to be solved for next place. During the hunt there will be challenges in the form of given code on c and c++ to solve which should be done in least possible time so, as to maintain your pace.",
+            "rules": "Marks to be given if team goes to the correct place otherwise guide them to the right place to go. </br>						Identify all places then give main program and generate output for main program.</br>						Each place is labeled by a number (1 to 7).</br>						Every place, a piece of code will be given, the output of which (1 to 7) will decide which place to visit the next.</br>						The players are guided to visit 10 places in university premises.</br>",
+			"teamsize": "3 members",
+            "date": "9th March 2016",
+            "time": "",
+            "venue": "",
+            "fees": "50/-",
+            "contact": " MCA :  Manav Soni</br>								email : sonimanav0007@gmail.com</br>                                Mobile : 9427927450</br>                         BCA : Mirav Patel</br>								email : mirav1231998@gmail.com</br>								Mobile : 9558454942</br>"  
+            } 
+      }
+		
+	}
+}

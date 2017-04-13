@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+
+	<link rel="icon" href="feliicon.ico">
+	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
+	<script src="js/modernizr.js"></script> <!-- Modernizr -->
+	<link rel="stylesheet" type="text/css" href="css/default.css" />
+	<link rel="stylesheet" type="text/css" href="css/component.css" />
+	<script src="js/modernizr.custom.js"></script>	
+  	<script src="js/jquery-2.1.4.js"></script>
+  	
+	<title>Felicific'16</title>
+	
+<script type="text/javascript">	
+	$(document).ready(function() {
+	      
+	    var on=0;
+	var list1 = document.getElementsByClassName("cd-section");
+    if($(window).width()/$(window).height() < 1){ $('#toggle_menu').click(function() {
+ 	  //alert('clicked');
+         $('.cd-side-navigation').toggle("slide");
+         if(on==0) {on=1;}
+         else {on=0;}
+//          alert(on);
+    //list1.getElementsByClassName("cd-section").style.padding-left = "0px";
+	$(".cd-section").css("padding-left","70px"); 
+	
+		 
+    });
+    $('.cd-side-navigation').toggle("slide");
+	
+    }
+    $('.cd-section').click(function() {
+// 	  alert('clicked');
+		//var list = document.getElementsByClassName("cd-section");
+   
+        if($(window).width()/$(window).height() < 1){ 
+		  $('.cd-side-navigation').hide("slide");
+		 $(".cd-section").css("padding-left","0px")
+		 
+		//	alert('InLastIf');
+			//list.getElementsByClassName("cd-section").style.padding-left = "90px";
+		}
+    });
+       
+});
+
+$(".cd-title").fadeIn("slow", function() {});
+
+function ref(page)
+{
+  document.location=page+".html";
+}
+</script>
+
+<style type="text/css">
+  .toggle_menu
+  {
+    position: absolute;
+    z-index: 50;
+    top:1em;
+    left: 1em;
+  }
+  
+  
+  /*
+  top: 50px;
+    left: 100px;
+    color: #ff0000;
+    border: solid 0px #ff0000;
+  */
+  
+  .svg_menu
+  {
+  height: 36px;
+width: 36px;
+margin-bottom: 12px;
+margin-top: -200px;
+  }
+</style>
+
+</head>
+<body>
+	<div id="toggle_menu" class="toggle_menu" style="color:#ff0000;"><img src="img/hamburg.png" width="100%" height="100%"></img></div>
+	<nav class="cd-side-navigation " id="cd-side-navigation">
+		<ul>
+			<li>
+				<a href="#0" onclick="ref('index');" class="selected" data-menu="index">
+
+				<img src="images/mainmenu/home.png" class="nc-icon outline svg_menu"> </img><br>
+					Home
+				</a>
+			</li>
+
+			<li>
+				<a href="#0" data-menu="services">
+				<img src="images/mainmenu/tech.png" class="nc-icon outline svg_menu"> </img><br>
+					Technical
+				</a>
+			</li>
+			
+			
+			<li>
+				<a href="#0" data-menu="centeraltech">
+					<img src="images/mainmenu/techcult.png" class="nc-icon outline svg_menu"> </img><br>
+					Central Technical
+				</a>
+			</li>
+
+			<li>
+				<a href="#0" data-menu="projects">
+				
+				<img src="images/mainmenu/cultural.png" class="nc-icon outline svg_menu"> </img><br>
+					Cultural
+				</a>
+			</li>
+
+			<li>
+				<a href="#0" data-menu="conference">
+				<img src="images/mainmenu/conf.png" class="nc-icon outline svg_menu"> </img><br>	
+					Conference
+				</a>
+			</li>
+			<!--
+			<li>
+				<a href="#0" data-menu="contact">
+				<img src="images/mainmenu/contact.png" class="nc-icon outline svg_menu"> </img><br>	
+					Contact
+				</a>
+			</li>
+			-->
+			<li>
+				<a href="#0" data-menu="webteam">
+				
+				<img src="images/mainmenu/webteam.png" class="nc-icon outline svg_menu"> </img><br>		
+					Web Team
+				</a>
+			</li>
+		</ul>
+	</nav> <!-- .cd-side-navigation -->
+	
+	<main class="cd-main">
+		<section class="cd-section index visible" style="padding-left: 0px; align: center;">
+			<header>
+				<div class="cd-title" style="width:100%">
+				<img src="img/feliicon.png" style="height: 100px; width: 100px"></img>
+					<h2>Felicific' 16</h2>
+					<span>8th-11th March, 2016</span>
+				</div>
+
+				<a href="#index-content" class="cd-scroll">Scroll Down</a>
+			</header>
+
+			<div class="cd-content" id="index-content">
+			
+			<br><br>
+				<blockquote class="quote" >
+							<div style="font-size: 40px;">About Felicific</div><br>
+							<div style="color: #4D4C4C; text-align: justify;">Felicific is a Techno-Cultural Festival of Dharmsinh Desai University. In 2013, all branches of FOT grouped together under a single roof and the journey began.
+
+Felicific 2016 will be a national level tech fest and held between 8 to 11 of the March.
+
+FELICIFIC is a journey which began few years ago. With each passing year it grew and evolved and the abstract nothingness was molded into a definite shape with a purpose in mind. Years of tireless effort and dedicated endeavors, turned this into a legacy, a legacy which has been proudly carried by legions of students.
+
+The purpose and the core ethics have remained static since the fest's inception. To organize a fest with competitions designed to extract the best from students. Create an aura of aggressive competitiveness, and inculcate in the students a desire to excel and achieve what seems impossible.
+
+The competitions, the excitement and the aggressiveness contributed in creating frenzy hitherto unseen. But all this will pale in comparison to FELICIFIC 14. Bigger, Better and Glitzier, FELICIFIC' 15 will be all that the previous version was much more. With many new competitions and the existing ones updated in sync with the latest technologies, this promises to be the ultimate battle of wits and As the FELICIFIC saga continues and with each step we soar to new heights, we remain grounded to our core values. So why worry about the destination when the journey can be so invigorating? Be a part of FELICIFIC and experience the awesome, spectacular, sublime, enthralling and everything you ever dreamed of.</div>
+				</blockquote>
+				
+<br><br><br>				
+				<blockquote class="quote" >
+							<div style="font-size: 40px;">About DDU</div><br>
+							<div style="color: #4D4C4C; text-align: justify;">Dharmsinh Desai Foundation was established at Nadiad in Gujarat, by an eminent Parliamentarian and a social worker, Late Shri Dharmsinh Desai. This Foundation was established to develop institutions that would improve the quality of life for the people in and around Nadiad. Though it has schools, colleges, public library and hospitals under its umbrella, this note will essentially focus on the development and subsequent impact of Dharmsinh Desai University (DDU). From an affiliated college, started in 1968 as Dharmsinh Desai Institute of Technology (DDIT), offering Degree and Diploma in Chemical Engineering, DDU has now become a trusted name amongst a variety of stake holders, namely, students, their parents, researchers, academicians, employers, other academic institutions offering higher level education, National level Institutions and State & Central Government agencies. DDU (erstwhile DDIT) became the first Autonomous Institute in Gujarat State. Later, in the year of 2000, it was awarded a status of 'Deemed University' by Government of India, in recognition of its commendable standards in Academia.
+DDU's Vision is to become a multi-disciplined & 'learner oriented' university to closely associate with & be responsive to the Industry, to create supportive & caring environment for staff & students and to engage in R & D activities in areas of national priority.
+DDU's Mission is to undertake programs and projects for development of human resources, both through formal and non formal delivery systems, in areas of professional pursuits in all walks of human endeavors, with accent on relevance, value addition, societal needs and futuristic pilot projects.</div>
+				</blockquote>
+				
+				
+			
+			</div> <!-- .cd-content -->
+		</section> <!-- .cd-section -->
+	</main> <!-- .cd-main -->
+
+	<div id="cd-loading-bar" data-scale="1" class="index"></div> <!-- lateral loading bar -->
+<script src="js/jquery-2.1.4.js"></script>
+<script src="js/velocity.min.js"></script>
+<script src="js/main.js"></script> <!-- Resource jQuery -->
+<script src="js/toucheffects.js"></script>
+
+</body>
+</html>

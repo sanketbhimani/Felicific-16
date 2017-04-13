@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en" class="demo-3 no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1"> 
+		<title>Felicific '16</title>
+
+		<link rel="shortcut icon" href="logo.ico">
+		<link rel="stylesheet" type="text/css" href="../../../css/normalize.css" />
+		<link rel="stylesheet" type="text/css" href="../css/demo.css" />
+		<link rel="stylesheet" type="text/css" href="css/component.css" />
+		<script src="js/snap.svg-min.js"></script>
+		<!--[if IE]>
+  		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+	<script>
+function goBack() {
+    window.history.back();
+}
+</script>
+
+<style>
+body{
+background-image:url("back.jpg");
+}
+</style>
+		<div class="container">
+			<!-- Top Navigation -->
+		<a  onclick="goBack()"><img src="../../conf/back.png" style="height:6%; width:6%; float:right; margin-right:20px; opacity:.6; cursor:pointer;" ></a><center><div style="margin-left:10%; margin-top:24px; font-size:400%; color:whitesmoke"> Robotics</div></center>
+			<section id="grid" class="grid clearfix">
+				<a href="event1.html" data-path-hover="M 0,0 0,38 90,58 180.5,38 180,0 z">
+					<figure>
+						<img src="img/1.png" />
+						<svg viewBox="0 0 180 320" preserveAspectRatio="none"><path d="M 0 0 L 0 182 L 90 126.5 L 180 182 L 180 0 L 0 0 z "/></svg>
+						<figcaption>
+							<h2>Death Race</h2>
+							<p>Get ready for a killer race</p>
+							<button>View</button>
+						</figcaption>
+					</figure>
+				</a>
+				<a href="event2.html" data-path-hover="M 0,0 0,38 90,58 180.5,38 180,0 z">
+					<figure>
+						<img src="img/2.png" />
+						<svg viewBox="0 0 180 320" preserveAspectRatio="none"><path d="M 0 0 L 0 182 L 90 126.5 L 180 182 L 180 0 L 0 0 z "/></svg>
+						<figcaption>
+							<h2>Line Follower</h2>
+							<p>Straighten yourself up, twist your guts out.</p>
+							<button>View</button>
+						</figcaption>
+					</figure>
+				</a>
+				<a href="event3.html" data-path-hover="M 0,0 0,38 90,58 180.5,38 180,0 z">
+					<figure>
+						<img src="img/3.png" />
+						<svg viewBox="0 0 180 320" preserveAspectRatio="none"><path d="M 0 0 L 0 182 L 90 126.5 L 180 182 L 180 0 L 0 0 z "/></svg>
+						<figcaption>
+							<h2>Robo Soccer</h2>
+							<p>Rise Above Your Limits!!</p>
+							<button>View</button>
+						</figcaption>
+					</figure>
+				</a>
+				<a href="event4.html" data-path-hover="M 0,0 0,38 90,58 180.5,38 180,0 z">
+					<figure>
+						<img src="img/4.png" />
+						<svg viewBox="0 0 180 320" preserveAspectRatio="none"><path d="M 0 0 L 0 182 L 90 126.5 L 180 182 L 180 0 L 0 0 z "/></svg>
+						<figcaption>
+							<h2>Robo war</h2>
+							<p>War does not care about who is right, only who is left</p>
+							<button>View</button>
+						</figcaption>
+					</figure>
+				</a>
+				
+			</section>
+			
+		</div><!-- /container -->
+		<script>
+			(function() {
+	
+				function init() {
+					var speed = 300,
+						easing = mina.backout;
+
+					[].slice.call ( document.querySelectorAll( '#grid > a' ) ).forEach( function( el ) {
+						var s = Snap( el.querySelector( 'svg' ) ), path = s.select( 'path' ),
+							pathConfig = {
+								from : path.attr( 'd' ),
+								to : el.getAttribute( 'data-path-hover' )
+							};
+
+						el.addEventListener( 'mouseenter', function() {
+							path.animate( { 'path' : pathConfig.to }, speed, easing );
+						} );
+
+						el.addEventListener( 'mouseleave', function() {
+							path.animate( { 'path' : pathConfig.from }, speed, easing );
+						} );
+					} );
+				}
+
+				init();
+
+			})();
+		</script>
+	</body>
+</html>

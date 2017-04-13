@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Huntronics</title>
+		<meta name="description" content="A responsive, magazine-like website layout with a grid item animation effect when opening the content" />
+		<meta name="keywords" content="grid, layout, effect, animated, responsive, magazine, template, web design" />
+		<meta name="author" content="Akshay Bosamiya" />
+		<link rel="icon" href="feliicon.ico">
+		<link rel="stylesheet" type="text/css" href="css/normalize.css" />
+		<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.3.0/css/font-awesome.min.css" />
+		<link rel="stylesheet" type="text/css" href="css/style1.css" />
+		<link rel="stylesheet" type="text/css" href="css/style3.css" />
+		<script src="js/modernizr.custom.js"></script>
+		<script src="js/jquery-2.1.4.js"></script>
+		<script>
+			function hideheader()
+			{
+				//alert("in");
+				 document.getElementById("item").style.display="none";
+				 //alert("out");
+			}
+			function showheader()
+			{
+				//alert("in");
+				if($(window).width()/$(window).height() < 1)
+				{
+				document.getElementById("item").style.display="block";	
+				}
+				 
+				 //alert("out");
+			}
+			
+		</script>
+	</head>
+	<body>
+		<div class="container">
+		
+			<button id="menu-toggle" class="menu-toggle"><span>Menu</span></button>
+			<div id="theSidebar" class="sidebar">
+				<button class="close-button fa fa-fw fa-close"></button>
+				<ul class="sidebarul">
+					<li style="margin-left:20%">
+						<a style="color:#dddddd" >
+						MENU
+						</a>
+					</li>
+					<hr>
+					<li><img src="img/icons/codejam.png">
+						<a href="codejam.html">
+						Code Jam
+						</a>
+					</li>
+					<li><img src="img/icons/haunt.png">
+						<a style="color:#83b0b9" href="huntronics.html">
+						Huntronics
+						</a>
+					</li>
+					<li><img src="img/icons/robo.png">
+						<a href="robotics.html">
+						Robotics
+						</a>
+					</li>
+					<li><img src="img/icons/gaming.png">
+						<a href="gaming.html">
+						Gaming
+						</a>
+					</li>
+					
+					<hr>
+					<li><img src="img/icons/home.png">
+						<a href="../index.html">
+						Home
+						</a>
+					</li>
+					<li><img src="img/icons/tech.png">
+						<a href="../services.html'">
+						Technical
+						</a>
+					</li>
+					<li><img src="img/icons/techcult.png">
+						<a href="../centeraltech.html">
+						Central Technical
+						</a>
+					</li>
+					<li><img src="img/icons/cultural.png">
+						<a href="../projects.html">
+						Cultural
+						</a>
+					</li>
+					<li><img src="img/icons/conf.png">
+						<a href="../conference.html">
+						Conference
+						</a>
+					</li>
+				</ul>
+				<!--<h1><span>Animated<span> Grid Layout</h1>-->
+				
+				
+			</div>
+			
+			<div id="item" class="hiddenheader">
+				<h2>Huntronics</h2>
+				<hr>
+			</div>
+			
+			<div id="theGrid" class="main">
+				<section class="grid">
+					<a class="grid__item" onclick=hideheader() href="#">
+						<h2 class="title title--preview">Huntronics</h2>
+						<div class="loader"></div>
+						<span class="category">RISE ABOVE YOUR LIMITS!!</span>
+					</a>
+				</section>
+				<section class="content">
+					<div class="scroll-wrap">
+						<article class="content__item">
+							<h2 class="title title--full">Huntronics</h2>
+							<span class="category category--full">RISE ABOVE YOUR LIMITS!!</span>
+							<div class="line-con" ></div>
+							<blockquote class="quote" >
+							<div style="color: #4D4C4C;">Based on technical, Non-technical clues and physical tasks to reach the final target.<br>Round 1: (Day - 1)<br>-	Technical and non-technical clues to evaluate participants on the basis of technical and non-technical knowledge.<br>-	Questions to each team will be given and from the given questions each team would decode the hidden clue within given time limit.<br>-	Each team can submit maximum 2 answer for the given clues.<br> Evaluation will be based on time and submission of correct clues.<br>Round 2: (Day - 2)<br>- It consists of various physical and non-physical activities.<br>-	Evolution will be based on their performance in different activities.<br>-	Criteria of evaluation for round 2 are disclosed just at the beginning of activities.<br>Final Round: (Day - 2)<br>Qualified Top 3 teams will enter into final round.<br> Participants will have to reach to the final destination after solving various clues and physical tasks.<br> Evaluation will be based on the capability of teams to solve clues, various physical & mental tasks and time.<br></div>
+							</blockquote>
+							<div class="line-con" ></div>
+							<center>
+								<a onclick="shsow_rules();" id="brules" class="ibutton">Rules</a>
+								<!--<a onclick="show_rounds();" id="brounds" class="ibutton">Rounds</a>-->
+							</center>
+							<br>
+							<div id="rules_round"><br>1)	Any misbehavior during event would lead to team disqualification.<br> Decisions of Judges are final.<br>2)	Qualified final team required to present in time for the further round.<br>3)	No cell phones will be allowed in the final round.<br>4)	Clothing – Sports Wear for Round 2 (Day-2)<br>5)	Time limit for first round is 45 minutes.<br>6)	Time limit for Final round is 2 hours.<br></div>
+									
+							<div class="line-con" ></div>
+							<center>
+							<div>
+								<img src="img/team.png"></img>
+								<h4>TEAM<br><div>3 Persons<br></div></h4>
+							</div>
+							<div class="line-con" ></div>
+							<div>
+								<img src="img/time.png"></img>
+								<h4>DATE & TIME<br><div>9th & 10th March 2016<br>Day-1 : 10:00 to 2:00<br> Day-2 : 5:00 AM to 10:30 AM<br>Final Round (Day-2) : 12:00 to 2:30 at : <br>Round-1 : Multimedia Hall  , Round-2: Play Ground  & Final Round : class room</div></h4>
+							</div>
+							<div class="line-con" ></div>
+							<div>
+								<img style="width:48px;height:48px" src="img/rupee.png"></img>
+								<h4>FEES<br><div>150 Rs</div></h4>
+							</div>
+							<div class="line-con" ></div>
+							<img src="img/phone.png"></img>
+							<h4>Event Co-Ordinator<br>
+							<div>
+							Prof. Pinkesh Patel<br> Mobile:9978374233 <br> Prof. Rachit Dana<br> Mobile:9727296203
+							</div>
+							<h4>
+							</center>
+							<br>
+							<p></p>
+						</article>
+					</div>
+					<button class="close-button" onclick="showheader()"><i class="fa fa-close"></i><span>Close</span></button>
+				</section>
+			</div>
+		</div><!-- /container -->
+		<script src="js/classie.js"></script>
+		<script src="js/main.js"></script>
+	</body>
+</html>

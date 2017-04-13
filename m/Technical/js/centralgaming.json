@@ -1,0 +1,15 @@
+data={
+		"Gaming": {
+            "id": "",
+            "name": "Gaming",
+            "tagline": "Shoot it. Save it. Share it.",
+            "description": "Shoot out your brains and crush out your opponents!!!Enjoy the most exciting games ever… You can show your team spirit via Counter Strike Condition Zero and your individuality via Need for Speed Most Wanted, So let's get started.",
+            "rules": "•	No swapping or change of team members will be allowed.<br>•	If all the members of the team are not present then the registration of the team will be cancelled.They will be allowed to play with the available members of their team.<br>•	Cheating in any form will lead to (DQ).<br>•	Teams are expected to report on time with their College Ids for the event.<br> Late entry will also lead to (DQ).<br>•	This is the time for you to show your abilities in the virtual world of gaming.<br>•	Show every one that you are the number one.<br>",
+            "teamsize": "(Need for Speed):1<br>(Counter Strike):4<br>",
+			"date" : "11th March 2016",
+            "time": "",
+            "venue": "",
+            "fees": "Rs. 50 for each participant",
+            "contact": "MCA : Bhavin Shiroya <br>email : bhavin2941994@gmail.com  Mobile : 9978398984<br>Uzair Kapadiya <br>email : kapadiauzair@gmail.com   Mobile : 8401877868<br>					BCA : Dhaval Patel <br>email : dhaval28patel28@gmail.com  Mobile : 9714885395<br>                      Soni Sagar    <br>email : soniplanet2016@gmail.com  Mobile : 9726996345<br> 						IT :  Satija Gagan P. <br>email : gagansatija22@gmail.com Mobile : 9913211227<br>                              Manan Modi <br>email : manantheghost@gmail.com      Mobile : 9426049959<br>"
+          }
+}

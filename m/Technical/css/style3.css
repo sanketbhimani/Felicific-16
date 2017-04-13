@@ -1,0 +1,29 @@
+.ibutton {
+	background-color:#ffffff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #124d77;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:17px;
+	padding:7px 33px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #154682;
+	"Raleway","Book Antiqua",Palatino,serif
+}
+.ibutton:hover {
+	background-color:#F3655E;
+}
+.ibutton:active {
+	position:relative;
+	top:1px;
+}
+
+.ibutton:click {
+	position:relative;
+	top:1px;
+	background-color:#F3655E;
+}
